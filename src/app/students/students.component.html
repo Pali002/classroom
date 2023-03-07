@@ -7,4 +7,24 @@ Date: 2023-03-07
 Github: https://github.com/Pali002/
 Licenc: GNU GPL
 -->
-<p>students works!</p>
+
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Név</th>
+        <th>Nem</th>
+        <th>Osztály</th>
+        <th>Pont</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let stud of students">
+        <td>{{ stud.id }}</td>
+        <td>{{ stud.name }}</td>
+        <td>{{ stud.gender }}</td>
+        <td>{{ stud.class }}</td>
+        <td>{{ stud.score }}</td>
+      </tr>
+    </tbody>
+  </table>
