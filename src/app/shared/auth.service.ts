@@ -1,3 +1,11 @@
+// * File: auth.service.ts
+// * Author: Zentai Pál
+// * Copyright: 2023, Zentai Pál
+// * Group: Szoft-II-N
+// * Date: 2023-02-07
+// * Github: https://github.com/Pali002
+// * Licenc: GNU GPL
+
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 
