@@ -1,7 +1,7 @@
 {
     "students": [
         { "id": 1, "name": "Derűs Béla", "gender": "férfi", "group": "15b" },
-        { "id": 2, "name": "Csendes Károly", "gender": "férfi", "group2": "15b" },
+        { "id": 2, "name": "Csendes Károly", "gender": "férfi", "group": "15b" },
         { "id": 3, "name": "Csege Ágnes", "gender": "nő", "group": "16a" },
         { "id": 4, "name": "Derűs Béla", "gender": "férfi", "group": "16a" },
         { "id": 5, "name": "Arany Lajos", "gender": "férfi", "group": "15b" },
